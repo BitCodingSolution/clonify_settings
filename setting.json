@@ -12,11 +12,11 @@
         "is_intra": true
     },
     "ios_ad": {
-        "banner": "/21775744923/example/fixed-size-banner",
+        "banner": "/21775744923/example/adaptive-banner",
         "intra": "/21775744923/example/interstitial",
         "open_ad": "/21775744923/example/app-open",
         "is_banner": true,
         "is_open_ad": true,
         "is_intra": true
-    }
+    } 
 } 
