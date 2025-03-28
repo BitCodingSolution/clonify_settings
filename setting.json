@@ -1,8 +1,8 @@
 {
 "is_all_lock": false,
 "is_review": false,
-"is_whatsweb_count_lock": 300,
-"is_direct_message_count_lock": 300,
+"is_whatsweb_count_lock": 4,
+"is_direct_message_count_lock": 4,
 "android_ad": {
 "banner": "/",
 "intra": "/2177574492",
