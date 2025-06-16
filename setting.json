@@ -15,8 +15,8 @@
 "banner": "/21753324030,22831392815/6742881136_Banner",
 "intra": "/21753324030,22831392815/6742881136_Interstitial",
 "open_ad": "/21753324030,22831392815/6742881136_AppOpen",
-"is_banner": false,
-"is_open_ad": false,
-"is_intra": false
+"is_banner": True,
+"is_open_ad": True,
+"is_intra": True
 }
 }
